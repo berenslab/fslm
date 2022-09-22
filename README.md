@@ -20,7 +20,7 @@ $ pip clone MISSING_REPO_URL fslm
 $ cd fslm
 ```
 
-`fslm` can then be installed via the provided `setup.py` by invoking:
+`fslm` along with the included utils can then be installed via the provided `setup.py` by invoking:
 ```commandline
 $ pip install .
 ```
