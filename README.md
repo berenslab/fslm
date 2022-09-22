@@ -16,7 +16,7 @@ $ conda create -n fslm_env python=3.8 && conda activate fslm_env
 
 Then create a clone of the repository on your local system with:
 ```commandline
-$ pip clone MISSING_REPO_URL fslm
+$ pip clone https://github.com/berenslab/fslm fslm
 $ cd fslm
 ```
 
