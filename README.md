@@ -31,3 +31,5 @@ from experiment_utils.toymodels import LGM
 lgm = LGM()
 lgm.sample_joint()
 ```
+## Getting started
+To get started we have provided an [example notebook](https://github.com/berenslab/fslm/blob/main/fslm_example.ipynb).
